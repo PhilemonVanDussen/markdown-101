@@ -2,4 +2,7 @@
 ### Web and App Development
 | Class Name       | Teacher             |
 |------------------|---------------------|
-| Enviromental Science| Mr. H
+| Enviromental Science|  Hoffelt           |
+| Civics| Sickle|
+| JROTC| Barr|
+|CTC WAD| Provencher|
