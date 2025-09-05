@@ -5,6 +5,8 @@ Why do programmers use markdown
 1. Markdown is easy to write and use simple syntax.
 2. Markdown can covert HTML and format it.
 3. Markdown is simple to read and keep track of.
+   
+---
 
 <!DOCTYPE html>
 <html lang="en">
@@ -19,6 +21,8 @@ Why do programmers use markdown
     <p> The second paragraph that contains the HTML <br> line break element.</p>
 </body>
 </html>
+
+---
 
 [MDN Web Docs](https://developer.mozilla.org/en-US/)  
 ![Rocket Ship Launch](rocket.jpg)
