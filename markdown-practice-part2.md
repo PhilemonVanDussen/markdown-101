@@ -21,5 +21,5 @@ Why do programmers use markdown
 </html>
 
 [MDN Web Docs](https://developer.mozilla.org/en-US/)
-![Rocket Ship Launch](<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/d62479fe-ff8c-4149-8633-86dff9a1cc3b" />)
+![Rocket Ship Launch](rocket.jpg)
    
